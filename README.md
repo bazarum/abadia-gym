@@ -1,3 +1,10 @@
+# this repo was moved to: https://github.com/LaAbadIAdelCrimen/abadia-gym
+
+** Please continue/fork/whatever there!!!!
+
+
+
+
 This repository contains a PIP package which is an OpenAI environment for
 simulating an environment for the AbadIA (The abbey of crime game).
 
